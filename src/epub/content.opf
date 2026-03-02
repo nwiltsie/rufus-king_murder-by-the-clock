@@ -49,7 +49,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75500</dc:source>
 		<dc:source>https://archive.org/details/bwb_S0-CTT-590</dc:source>
-		<meta property="se:production-notes">Italics have been removed from French words and phrases that are found in Merriam-Webster (clichés, chaise longue, etc.). The Scots word ‘foustie’ was left unitalicized to match the original text despite not appearing in Merriam-Webster.</meta>
+		<meta property="se:production-notes">Italics have been removed from French words and phrases that are found in Merriam-Webster (clichés, chaise longue, etc.). The Scots word ‘foustie’ was left unitalicized to match the original text despite not appearing in Merriam-Webster. The word 'négligé' was not modernized to 'negligee' in Chapter 2 as it is part of the larger French phrase 'en négligé.'</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rufus-king_murder-by-the-clock</meta>
